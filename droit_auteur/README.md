@@ -1,8 +1,8 @@
 # Droit d'auteur et droits voisins
 
 ## Contexte légal
- * (Loi fédérale sur le droit d'auteur et les droits voisins)[https://www.admin.ch/opc/fr/classified-compilation/19920251/index.html]
- * (Ordonnance sur le droit d'auteur et les droits voisins)[https://www.admin.ch/opc/fr/classified-compilation/19930114/]
+ * [Loi fédérale sur le droit d'auteur et les droits voisins](https://www.admin.ch/opc/fr/classified-compilation/19920251/index.html)
+ * [Ordonnance sur le droit d'auteur et les droits voisins](https://www.admin.ch/opc/fr/classified-compilation/19930114/)
 
 ## Sources
  * Educa.ch: [Droit d'auteur](https://www.educa.ch/fr/guides/droit-dauteur) et son guide: [Droit d'auteur et éducation](https://biblio.educa.ch/fr/dsb-portal/description/archibald%23%23%239af2fd5ea66eb176f6d458d1a13dc747?dsb_portal_lang=fr&dsb_sq=droit&dsb_lp=per) (PDF)
@@ -15,7 +15,7 @@
 ## Ressources d'oeuvre en accès libre
 
 ### Textes,...
- * 
+ *
 
 ### Images, icônes et autre
  * [PixaBay](https://pixabay.com/)
