@@ -1,4 +1,3 @@
-
 # Droit d'auteur et droits voisins
 
 ## Contexte légal
@@ -10,5 +9,19 @@
  * IPI.ch: [Droit d’auteur](https://www.ige.ch/fr/propriete-intellectuelle/apercu-des-titres-de-pi/droit-dauteur.html) et sa brochure [Droit d’auteur et droits voisins](https://www.ige.ch/fileadmin/user_upload/schuetzen/urheberrecht/f/Droit-dauteur-et-droits-voisins.pdf) (PDF)
  * [ProLitteris](https://prolitteris.ch/fr/)
 
-## Ressources
- *
+## Articles pour aller plus loin
+ * Pyrros.fr: [Comment créditer une photo ?](https://pyrros.fr/tutoriel/comment-crediter-une-photo/)
+
+## Ressources d'oeuvre en accès libre
+
+### Textes,...
+ * 
+
+### Images, icônes et autre
+ * [PixaBay](https://pixabay.com/)
+
+### Son, musiques,...
+ * [StarFrosch](https://starfrosch.com/)
+
+### Divers
+ * [Blue Vertigo (ES)](https://www.bluevertigo.com.ar/) La liste ultime des ressources gratuites : photos libres de droits, polices, logos, icônes…
