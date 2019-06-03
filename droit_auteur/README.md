@@ -29,9 +29,10 @@ Vous trouverez ci-dessous une sélection de sites internet proposant de la musiq
  * [Music for Makers](https://musicformakers.com/)
  * [Au bout du fil](https://www.auboutdufil.com/)
  * [CC Trax](https://cctrax.com/)
- 
+
 
 ### Mix
+ * [Trouver des images sur le web](http://documentation.spip.ac-rouen.fr/?Trouver-des-images-sur-le-Web-moteurs-de-recherche-banques-generales-et): moteurs de recherche, banques générales et thématiques
  * [Blue Vertigo (ES)](https://www.bluevertigo.com.ar/) La liste ultime des ressources gratuites : photos libres de droits, polices, logos, icônes…
  * [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Accueil) Une médiathèque de fichiers média librement réutilisables et que chacun peut enrichir.
